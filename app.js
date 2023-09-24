@@ -1,2 +1,1 @@
-console.log('I LOVE LEARNING AND GROWING')
-console.log('Git is amazing')
+console.log('I LOVE LEARNING AND GROWING ,git is amazing')
